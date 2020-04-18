@@ -1,0 +1,26 @@
+server:
+  port: 9080
+  #项目名称
+  servlet:
+    context-path: /springboot02
+name: 李四(application.yml)
+
+---
+
+
+---
+
+#person:
+#  name: 张三
+#  age: 12
+#  boss: false
+#  birth: 2011/01/04
+#  maps: {xm: zhangsan,age: 18}
+#  #list,array
+#  lists:
+#    - dog
+#    - pig
+#    - cat
+#  dog:
+#    name: xiaogou
+#    age: 2
